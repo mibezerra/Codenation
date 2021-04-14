@@ -5,4 +5,5 @@ Desafios realizados na Aceleração de Data Science do [Codenation](https://driv
 
 * [Semana 1](https://github.com/mibezerra/Codenation/tree/master/data-science-0):
     * Pré-processamento de dados em Python
-
+* [Semana 2](https://github.com/mibezerra/Codenation/blob/master/coestatistica-1/)
+    * Conhecendo melhor nossa base de consumidores: qual estado possui os clientes com melhores pontuações de crédito?
