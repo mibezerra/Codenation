@@ -18,4 +18,4 @@ Desafios realizados na Aceleração de Data Science do [Codenation](https://driv
 * [Semana 7](https://github.com/mibezerra/Codenation/blob/master/enem-2/Semana%208.ipynb)
      * Descubra as melhores notas de matemática do ENEM 2016
 * [Semana 8](https://github.com/mibezerra/Codenation/blob/master/enem-4/desafio9.ipynb)
-       * Descubra quem fez o ENEM 2016 apenas para treino
+      * Descubra quem fez o ENEM 2016 apenas para treino
